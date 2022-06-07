@@ -3,14 +3,14 @@
     .p{
         font-weight: bold;
         font-size: 20px;
-        color: #ffffff;
+        color: #39CCCC;
         background-color: #f8acac;
         border-radius: 10px;
         padding-left: 10px;
         padding-right: 10px;
     }
     table{
-        background-color: #E0752F;
+        background-color: #001f3f;
         border-radius: 10px;
     }
     h1{
@@ -29,7 +29,7 @@
 <table>
     <tr>
       <td>
-        <p class="p">{{ $form->name}} le ha mandado un mensaje.</h1>
+        <p class="p">{{ $form->name}} le ha enviado un mensaje.</h1>
         <p>Name: {{$form->name}}</p>
         <p>Email: {{$form->email}}</p>
         <p>Phone: {{$form->phone}}</p>
