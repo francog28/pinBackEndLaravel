@@ -34,7 +34,6 @@
         <p>Email: {{$form->email}}</p>
         <p>Phone: {{$form->phone}}</p>
         <p>Message: {{$form->message}}</p>
-        <span>Gracias.</span>
       </td>
     </tr>
   </table>
