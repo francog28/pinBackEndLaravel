@@ -4,7 +4,7 @@
         font-weight: bold;
         font-size: 20px;
         color: #39CCCC;
-        background-color: #f8acac;
+        background-color: #B10DC9;
         border-radius: 10px;
         padding-left: 10px;
         padding-right: 10px;
