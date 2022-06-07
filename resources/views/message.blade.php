@@ -3,8 +3,8 @@
     .p{
         font-weight: bold;
         font-size: 20px;
-        color: #39CCCC;
-        background-color: #B10DC9;
+        color: #ffffff;
+        background-color: #001f3f;
         border-radius: 10px;
         padding-left: 10px;
         padding-right: 10px;
